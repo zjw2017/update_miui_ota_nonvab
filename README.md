@@ -15,7 +15,7 @@
 |Redmi K30S 至尊纪念版| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%20K30S%20至尊纪念版.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%20K30S%20至尊纪念版.md)|
 |Redmi Note 9 4G| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%20Note%209%204G.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%20Note%209%204G.md)|
 |Redmi Note 9 5G| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%20Note%209%205G.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%20Note%209%5G.md)|
-|Redmi Note 9 Pro 5G| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%20Note%209%20Pro%5G.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%20Note%209%20Pro%205G.md)|
+|Redmi Note 9 Pro 5G| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%20Note%209%20Pro%205G.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%20Note%209%20Pro%205G.md)|
 |Redmi 10X 5G| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%2010X%205G.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%2010X%205G.md)|
 |Redmi 10X Pro| [Dev](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Dev/Redmi%2010X%20Pro.md)| [Release](https://github.com/zjw2017/update_miui_ota_nonvab/blob/master/Release/Redmi%2010X%20Pro.md)|
  ---- 
