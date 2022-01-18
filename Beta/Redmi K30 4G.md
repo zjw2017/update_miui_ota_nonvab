@@ -1,4 +1,4 @@
-| Redmi K30 4G  内测版    |
+| Redmi K30 4G  开发版    |
 | ---- |
 | [miui_PHOENIX_21.12.7_8a8300b905_11.0.zip](https://hugeota.d.miui.com/21.12.7/miui_PHOENIX_21.12.7_8a8300b905_11.0.zip)    |
 | [miui_PHOENIX_21.12.1_e534d713c8_11.0.zip](https://hugeota.d.miui.com/21.12.1/miui_PHOENIX_21.12.1_e534d713c8_11.0.zip)    |

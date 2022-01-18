@@ -1,4 +1,4 @@
-| 小米10 Pro  内测版    |
+| 小米10 Pro  开发版    |
 | ---- |
 | [miui_CMI_21.12.8_632caab675_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_CMI_21.12.8_632caab675_12.0.zip)    |
 | [miui_CMI_21.12.7_0b7a2b2520_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_CMI_21.12.7_0b7a2b2520_12.0.zip)    |

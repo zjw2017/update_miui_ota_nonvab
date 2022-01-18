@@ -1,4 +1,4 @@
-| Redmi K30(i) 5G  内测版    |
+| Redmi K30(i) 5G  开发版    |
 | ---- |
 | [miui_PICASSO_21.11.24_a73b5667c6_11.0.zip](https://hugeota.d.miui.com/21.11.24/miui_PICASSO_21.11.24_a73b5667c6_11.0.zip)    |
 | [miui_PICASSO_21.11.17_5a29e298f7_11.0.zip](https://hugeota.d.miui.com/21.11.17/miui_PICASSO_21.11.17_5a29e298f7_11.0.zip)    |

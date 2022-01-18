@@ -1,4 +1,4 @@
-| Redmi K30S 至尊纪念版  内测版    |
+| Redmi K30S 至尊纪念版  开发版    |
 | ---- |
 | [miui_APOLLO_21.12.8_196de44fb8_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_APOLLO_21.12.8_196de44fb8_12.0.zip)    |
 | [miui_APOLLO_21.12.7_c6bc7fb7c0_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_APOLLO_21.12.7_c6bc7fb7c0_12.0.zip)    |

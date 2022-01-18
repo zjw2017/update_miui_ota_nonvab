@@ -1,4 +1,4 @@
-| Redmi Note 9 Pro 5G  内测版    |
+| Redmi Note 9 Pro 5G  开发版    |
 | ---- |
 | [miui_GAUGUIN_21.8.11_559598857a_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_GAUGUIN_21.8.11_559598857a_11.0.zip)    |
 | [miui_GAUGUIN_21.8.10_99151b4f29_11.0.zip](https://hugeota.d.miui.com/21.8.10/miui_GAUGUIN_21.8.10_99151b4f29_11.0.zip)    |

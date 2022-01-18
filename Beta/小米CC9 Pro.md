@@ -1,4 +1,4 @@
-| 小米CC9 Pro  内测版    |
+| 小米CC9 Pro  开发版    |
 | ---- |
 | [miui_TUCANA_21.8.11_9ab8f07761_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_TUCANA_21.8.11_9ab8f07761_11.0.zip)    |
 | [miui_TUCANA_21.8.10_d2f2108e67_11.0.zip](https://hugeota.d.miui.com/21.8.10/miui_TUCANA_21.8.10_d2f2108e67_11.0.zip)    |
