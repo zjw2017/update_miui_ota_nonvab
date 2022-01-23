@@ -1,4 +1,4 @@
-| Redmi K30 5G  稳定版    |
+| Redmi K30(i) 5G  稳定版    |
 | ---- |
 | [miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip](https://hugeota.d.miui.com/V12.5.9.0.RGICNXM/miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip)    |
 | [miui_PICASSO_V12.5.7.0.RGICNXM_02c694af6e_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RGICNXM/miui_PICASSO_V12.5.7.0.RGICNXM_02c694af6e_11.0.zip)    |

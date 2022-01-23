@@ -1,4 +1,4 @@
-| 小米CC 9 Pro  稳定版    |
+| 小米CC9 Pro  稳定版    |
 | ---- |
 | [miui_TUCANA_V12.5.7.0.RFDCNXM_5239ec8395_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RFDCNXM/miui_TUCANA_V12.5.7.0.RFDCNXM_5239ec8395_11.0.zip)    |
 | [miui_TUCANA_V12.5.5.0.RFDCNXM_1e4cc10739_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RFDCNXM/miui_TUCANA_V12.5.5.0.RFDCNXM_1e4cc10739_11.0.zip)    |

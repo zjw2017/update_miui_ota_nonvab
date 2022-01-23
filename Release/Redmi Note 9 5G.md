@@ -1,4 +1,4 @@
-| Redmi Note 9  稳定版    |
+| Redmi Note 9 5G  稳定版    |
 | ---- |
 | [miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip](https://hugeota.d.miui.com/V12.5.8.0.RJECNXM/miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip)    |
 | [miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RJECNXM/miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip)    |

@@ -1,4 +1,4 @@
-| 小米10Pro  稳定版    |
+| 小米10 Pro  稳定版    |
 | ---- |
 | [miui_CMI_V12.5.10.0.RJACNXM_fcaa9c15ff_11.0.zip](https://hugeota.d.miui.com/V12.5.10.0.RJACNXM/miui_CMI_V12.5.10.0.RJACNXM_fcaa9c15ff_11.0.zip)    |
 | [miui_CMI_V12.5.8.0.RJACNXM_cc82030bb1_11.0.zip](https://hugeota.d.miui.com/V12.5.8.0.RJACNXM/miui_CMI_V12.5.8.0.RJACNXM_cc82030bb1_11.0.zip)    |

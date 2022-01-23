@@ -1,4 +1,4 @@
-| Redmi K30  稳定版    |
+| Redmi K30 4G  稳定版    |
 | ---- |
 | [miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RGHCNXM/miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip)    |
 | [miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RGHCNXM/miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip)    |

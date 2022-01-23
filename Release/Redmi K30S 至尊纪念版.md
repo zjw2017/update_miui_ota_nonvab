@@ -1,4 +1,4 @@
-| Redmi K30S  稳定版    |
+| Redmi K30S 至尊纪念版  稳定版    |
 | ---- |
 | [miui_APOLLO_V12.5.8.0.RJDCNXM_5cb07932ff_11.0.zip](https://hugeota.d.miui.com/V12.5.8.0.RJDCNXM/miui_APOLLO_V12.5.8.0.RJDCNXM_5cb07932ff_11.0.zip)    |
 | [miui_APOLLO_V12.5.7.0.RJDCNXM_ec7c843271_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RJDCNXM/miui_APOLLO_V12.5.7.0.RJDCNXM_ec7c843271_11.0.zip)    |
