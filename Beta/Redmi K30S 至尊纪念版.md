@@ -1,5 +1,6 @@
 | Redmi K30S 至尊纪念版  开发版    |
 | ---- |
+| [miui_APOLLO_V13.0.0.1.6.DEV_3e69b3b62e_12.0.zip](https://hugeota.d.miui.com/V13.0.0.1.6.DEV/miui_APOLLO_V13.0.0.1.6.DEV_3e69b3b62e_12.0.zip)    |
 | [miui_APOLLO_21.12.8_196de44fb8_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_APOLLO_21.12.8_196de44fb8_12.0.zip)    |
 | [miui_APOLLO_21.12.7_c6bc7fb7c0_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_APOLLO_21.12.7_c6bc7fb7c0_12.0.zip)    |
 | [miui_APOLLO_21.12.6_d93e075e21_12.0.zip](https://hugeota.d.miui.com/21.12.6/miui_APOLLO_21.12.6_d93e075e21_12.0.zip)    |
