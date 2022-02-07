@@ -1,5 +1,6 @@
 | Redmi K30S 至尊纪念版  内测版    |
 | ---- |
+| [miui_APOLLOPRE_22.1.24_b335acb943_12.0.zip](https://hugeota.d.miui.com/22.1.24/miui_APOLLOPRE_22.1.24_b335acb943_12.0.zip)    |
 | [miui_APOLLOPRE_22.1.19_cf414572a3_12.0.zip](https://hugeota.d.miui.com/22.1.19/miui_APOLLOPRE_22.1.19_cf414572a3_12.0.zip)    |
 | [miui_APOLLOPRE_22.1.18_ae5cb0c92e_12.0.zip](https://hugeota.d.miui.com/22.1.18/miui_APOLLOPRE_22.1.18_ae5cb0c92e_12.0.zip)    |
 | [miui_APOLLOPRE_22.1.17_ac57a9c858_12.0.zip](https://hugeota.d.miui.com/22.1.17/miui_APOLLOPRE_22.1.17_ac57a9c858_12.0.zip)    |
