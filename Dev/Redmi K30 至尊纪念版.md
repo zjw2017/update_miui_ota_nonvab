@@ -1,5 +1,6 @@
 | Redmi K30 至尊纪念版  内测版    |
 | ---- |
+| [miui_CEZANNE_22.2.8_28d2c6676d_11.0.zip](https://hugeota.d.miui.com/22.2.8/miui_CEZANNE_22.2.8_28d2c6676d_11.0.zip)    |
 | [miui_CEZANNE_22.2.7_d2aa2629e6_11.0.zip](https://hugeota.d.miui.com/22.2.7/miui_CEZANNE_22.2.7_d2aa2629e6_11.0.zip)    |
 | [miui_CEZANNE_22.1.24_d49af6798d_11.0.zip](https://hugeota.d.miui.com/22.1.24/miui_CEZANNE_22.1.24_d49af6798d_11.0.zip)    |
 | [miui_CEZANNE_22.1.19_83d590d8f5_11.0.zip](https://hugeota.d.miui.com/22.1.19/miui_CEZANNE_22.1.19_83d590d8f5_11.0.zip)    |
