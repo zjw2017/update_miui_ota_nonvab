@@ -1,5 +1,6 @@
 | 小米10 Pro  开发版    |
 | ---- |
+| [miui_CMI_V13.0.0.1.7.DEV_8bf8ddbad8_12.0.zip](https://hugeota.d.miui.com/V13.0.0.1.7.DEV/miui_CMI_V13.0.0.1.7.DEV_8bf8ddbad8_12.0.zip)    |
 | [miui_CMI_V13.0.0.1.6.DEV_82c8f6be6f_12.0.zip](https://hugeota.d.miui.com/V13.0.0.1.6.DEV/miui_CMI_V13.0.0.1.6.DEV_82c8f6be6f_12.0.zip)    |
 | [miui_CMI_V13.0.0.1.2.DEV_288ca649ba_12.0.zip](https://hugeota.d.miui.com/V13.0.0.1.2.DEV/miui_CMI_V13.0.0.1.2.DEV_288ca649ba_12.0.zip)    |
 | [miui_CMI_21.12.8_632caab675_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_CMI_21.12.8_632caab675_12.0.zip)    |
