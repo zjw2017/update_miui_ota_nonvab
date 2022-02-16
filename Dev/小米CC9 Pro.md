@@ -1,5 +1,6 @@
 | 小米CC9 Pro  内测版    |
 | ---- |
+| [miui_TUCANA_22.2.10_cc42c4f5fe_11.0.zip](https://hugeota.d.miui.com/22.2.10/miui_TUCANA_22.2.10_cc42c4f5fe_11.0.zip)    |
 | [miui_TUCANA_22.2.9_4959ce9155_11.0.zip](https://hugeota.d.miui.com/22.2.9/miui_TUCANA_22.2.9_4959ce9155_11.0.zip)    |
 | [miui_TUCANA_22.2.7_84f642c7c3_11.0.zip](https://hugeota.d.miui.com/22.2.7/miui_TUCANA_22.2.7_84f642c7c3_11.0.zip)    |
 | [miui_TUCANA_22.1.24_59accccae5_11.0.zip](https://hugeota.d.miui.com/22.1.24/miui_TUCANA_22.1.24_59accccae5_11.0.zip)    |
