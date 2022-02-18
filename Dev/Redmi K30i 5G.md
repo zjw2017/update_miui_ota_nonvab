@@ -1,5 +1,7 @@
 | Redmi K30i 5G  内测版    |
 | ---- |
+| [miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip](https://hugeota.d.miui.com/22.2.17/miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip)    |
+| [miui_PICASSO48MPRE_22.2.16_ca093fa2cf_12.0.zip](https://hugeota.d.miui.com/22.2.16/miui_PICASSO48MPRE_22.2.16_ca093fa2cf_12.0.zip)    |
 | [miui_PICASSO48MPRE_22.2.15_51d88ffc2b_12.0.zip](https://hugeota.d.miui.com/22.2.15/miui_PICASSO48MPRE_22.2.15_51d88ffc2b_12.0.zip)    |
 | [miui_PICASSO48MPRE_22.2.10_294ffc0fc4_12.0.zip](https://hugeota.d.miui.com/22.2.10/miui_PICASSO48MPRE_22.2.10_294ffc0fc4_12.0.zip)    |
 | [miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip](https://hugeota.d.miui.com/22.2.9/miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip)    |
