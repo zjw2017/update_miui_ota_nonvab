@@ -1,5 +1,7 @@
 | Redmi Note 9 5G  内测版    |
 | ---- |
+| [miui_CANNON_22.2.23_dad511376d_11.0.zip](https://hugeota.d.miui.com/22.2.23/miui_CANNON_22.2.23_dad511376d_11.0.zip)    |
+| [miui_CANNON_22.2.22_591691b615_11.0.zip](https://hugeota.d.miui.com/22.2.22/miui_CANNON_22.2.22_591691b615_11.0.zip)    |
 | [miui_CANNON_22.2.18_28477fae9d_11.0.zip](https://hugeota.d.miui.com/22.2.18/miui_CANNON_22.2.18_28477fae9d_11.0.zip)    |
 | [miui_CANNON_22.2.17_14387ded78_11.0.zip](https://hugeota.d.miui.com/22.2.17/miui_CANNON_22.2.17_14387ded78_11.0.zip)    |
 | [miui_CANNON_22.2.16_57367df1db_11.0.zip](https://hugeota.d.miui.com/22.2.16/miui_CANNON_22.2.16_57367df1db_11.0.zip)    |

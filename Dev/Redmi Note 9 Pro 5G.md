@@ -1,5 +1,7 @@
 | Redmi Note 9 Pro 5G  内测版    |
 | ---- |
+| [miui_GAUGUINPRE_22.2.23_877d8280e8_12.0.zip](https://hugeota.d.miui.com/22.2.23/miui_GAUGUINPRE_22.2.23_877d8280e8_12.0.zip)    |
+| [miui_GAUGUINPRE_22.2.22_00696d7234_12.0.zip](https://hugeota.d.miui.com/22.2.22/miui_GAUGUINPRE_22.2.22_00696d7234_12.0.zip)    |
 | [miui_GAUGUINPRE_22.2.19_e721f9fb95_12.0.zip](https://hugeota.d.miui.com/22.2.19/miui_GAUGUINPRE_22.2.19_e721f9fb95_12.0.zip)    |
 | [miui_GAUGUINPRE_22.2.17_8c67ac2e00_12.0.zip](https://hugeota.d.miui.com/22.2.17/miui_GAUGUINPRE_22.2.17_8c67ac2e00_12.0.zip)    |
 | [miui_GAUGUINPRE_22.2.16_7c942d30cd_12.0.zip](https://hugeota.d.miui.com/22.2.16/miui_GAUGUINPRE_22.2.16_7c942d30cd_12.0.zip)    |
