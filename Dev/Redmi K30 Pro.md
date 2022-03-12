@@ -1,5 +1,9 @@
 | Redmi K30 Pro  内测版    |
 | ---- |
+| [miui_LMIPRE_22.3.3_d20dbc5dbe_12.0.zip](https://hugeota.d.miui.com/22.3.3/miui_LMIPRE_22.3.3_d20dbc5dbe_12.0.zip)    |
+| [miui_LMIPRE_22.3.2_736bb3e57f_12.0.zip](https://hugeota.d.miui.com/22.3.2/miui_LMIPRE_22.3.2_736bb3e57f_12.0.zip)    |
+| [miui_LMIPRE_22.2.28_6d84a3e531_12.0.zip](https://hugeota.d.miui.com/22.2.28/miui_LMIPRE_22.2.28_6d84a3e531_12.0.zip)    |
+| [miui_LMIPRE_22.2.26_314380772e_12.0.zip](https://hugeota.d.miui.com/22.2.26/miui_LMIPRE_22.2.26_314380772e_12.0.zip)    |
 | [miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip](https://hugeota.d.miui.com/22.2.23/miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip)    |
 | [miui_LMIPRE_22.2.22_dd4c499203_12.0.zip](https://hugeota.d.miui.com/22.2.22/miui_LMIPRE_22.2.22_dd4c499203_12.0.zip)    |
 | [miui_LMIPRE_22.2.21_fed4d727ed_12.0.zip](https://hugeota.d.miui.com/22.2.21/miui_LMIPRE_22.2.21_fed4d727ed_12.0.zip)    |

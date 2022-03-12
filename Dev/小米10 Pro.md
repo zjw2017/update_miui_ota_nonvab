@@ -1,5 +1,9 @@
 | 小米10 Pro  内测版    |
 | ---- |
+| [miui_CMIPRE_22.3.3_c989015a70_12.0.zip](https://hugeota.d.miui.com/22.3.3/miui_CMIPRE_22.3.3_c989015a70_12.0.zip)    |
+| [miui_CMIPRE_22.3.2_49d31a1d94_12.0.zip](https://hugeota.d.miui.com/22.3.2/miui_CMIPRE_22.3.2_49d31a1d94_12.0.zip)    |
+| [miui_CMIPRE_22.2.28_5b3fd64b6b_12.0.zip](https://hugeota.d.miui.com/22.2.28/miui_CMIPRE_22.2.28_5b3fd64b6b_12.0.zip)    |
+| [miui_CMIPRE_22.2.25_d1f0fa7943_12.0.zip](https://hugeota.d.miui.com/22.2.25/miui_CMIPRE_22.2.25_d1f0fa7943_12.0.zip)    |
 | [miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip](https://hugeota.d.miui.com/22.2.23/miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip)    |
 | [miui_CMIPRE_22.2.22_03567c2712_12.0.zip](https://hugeota.d.miui.com/22.2.22/miui_CMIPRE_22.2.22_03567c2712_12.0.zip)    |
 | [miui_CMIPRE_22.2.21_ab96d1c11c_12.0.zip](https://hugeota.d.miui.com/22.2.21/miui_CMIPRE_22.2.21_ab96d1c11c_12.0.zip)    |

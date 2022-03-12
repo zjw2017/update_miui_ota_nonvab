@@ -1,5 +1,9 @@
 | Redmi K30i 5G  内测版    |
 | ---- |
+| [miui_PICASSO48MPRE_22.3.3_facd7a18c9_12.0.zip](https://hugeota.d.miui.com/22.3.3/miui_PICASSO48MPRE_22.3.3_facd7a18c9_12.0.zip)    |
+| [miui_PICASSO48MPRE_22.3.2_96585e927f_12.0.zip](https://hugeota.d.miui.com/22.3.2/miui_PICASSO48MPRE_22.3.2_96585e927f_12.0.zip)    |
+| [miui_PICASSO48MPRE_22.2.28_9210085087_12.0.zip](https://hugeota.d.miui.com/22.2.28/miui_PICASSO48MPRE_22.2.28_9210085087_12.0.zip)    |
+| [miui_PICASSO48MPRE_22.2.25_85d40c9484_12.0.zip](https://hugeota.d.miui.com/22.2.25/miui_PICASSO48MPRE_22.2.25_85d40c9484_12.0.zip)    |
 | [miui_PICASSO48MPRE_22.2.23_1173c978d5_12.0.zip](https://hugeota.d.miui.com/22.2.23/miui_PICASSO48MPRE_22.2.23_1173c978d5_12.0.zip)    |
 | [miui_PICASSO48MPRE_22.2.22_506f4983a6_12.0.zip](https://hugeota.d.miui.com/22.2.22/miui_PICASSO48MPRE_22.2.22_506f4983a6_12.0.zip)    |
 | [miui_PICASSO48MPRE_22.2.19_a9d57c3d31_12.0.zip](https://hugeota.d.miui.com/22.2.19/miui_PICASSO48MPRE_22.2.19_a9d57c3d31_12.0.zip)    |

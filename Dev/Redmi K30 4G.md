@@ -1,5 +1,9 @@
 | Redmi K30 4G  内测版    |
 | ---- |
+| [miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip](https://hugeota.d.miui.com/22.3.3/miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip)    |
+| [miui_PHOENIXPRE_22.3.2_f093b87b23_12.0.zip](https://hugeota.d.miui.com/22.3.2/miui_PHOENIXPRE_22.3.2_f093b87b23_12.0.zip)    |
+| [miui_PHOENIXPRE_22.2.28_c67a3826bf_12.0.zip](https://hugeota.d.miui.com/22.2.28/miui_PHOENIXPRE_22.2.28_c67a3826bf_12.0.zip)    |
+| [miui_PHOENIXPRE_22.2.25_e5d14fa096_12.0.zip](https://hugeota.d.miui.com/22.2.25/miui_PHOENIXPRE_22.2.25_e5d14fa096_12.0.zip)    |
 | [miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip](https://hugeota.d.miui.com/22.2.23/miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip)    |
 | [miui_PHOENIXPRE_22.2.22_98595aeae1_12.0.zip](https://hugeota.d.miui.com/22.2.22/miui_PHOENIXPRE_22.2.22_98595aeae1_12.0.zip)    |
 | [miui_PHOENIXPRE_22.2.19_de0bf74b6c_12.0.zip](https://hugeota.d.miui.com/22.2.19/miui_PHOENIXPRE_22.2.19_de0bf74b6c_12.0.zip)    |
