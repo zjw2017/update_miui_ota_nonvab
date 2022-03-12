@@ -1,5 +1,10 @@
 | Redmi Note 9 4G  内测版    |
 | ---- |
+| [miui_LIME_22.3.9_fcd8ebfea8_11.0.zip](https://hugeota.d.miui.com/22.3.9/miui_LIME_22.3.9_fcd8ebfea8_11.0.zip)    |
+| [miui_LIME_22.3.8_01e73b1b8f_11.0.zip](https://hugeota.d.miui.com/22.3.8/miui_LIME_22.3.8_01e73b1b8f_11.0.zip)    |
+| [miui_LIME_22.3.7_1be3c97284_11.0.zip](https://hugeota.d.miui.com/22.3.7/miui_LIME_22.3.7_1be3c97284_11.0.zip)    |
+| [miui_LIME_22.3.2_1fc1f2314c_11.0.zip](https://hugeota.d.miui.com/22.3.2/miui_LIME_22.3.2_1fc1f2314c_11.0.zip)    |
+| [miui_LIME_22.2.25_d896904127_11.0.zip](https://hugeota.d.miui.com/22.2.25/miui_LIME_22.2.25_d896904127_11.0.zip)    |
 | [miui_LIME_22.2.23_125985b890_11.0.zip](https://hugeota.d.miui.com/22.2.23/miui_LIME_22.2.23_125985b890_11.0.zip)    |
 | [miui_LIME_22.2.22_1cd29195e5_11.0.zip](https://hugeota.d.miui.com/22.2.22/miui_LIME_22.2.22_1cd29195e5_11.0.zip)    |
 | [miui_LIME_22.2.18_c9edd654a8_11.0.zip](https://hugeota.d.miui.com/22.2.18/miui_LIME_22.2.18_c9edd654a8_11.0.zip)    |
