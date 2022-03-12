@@ -1,5 +1,6 @@
 | Redmi K30 至尊纪念版  稳定版    |
 | ---- |
+| [miui_CEZANNE_V12.5.11.0.RJNCNXM_30f7f0b596_11.0.zip](https://hugeota.d.miui.com/V12.5.11.0.RJNCNXM/miui_CEZANNE_V12.5.11.0.RJNCNXM_30f7f0b596_11.0.zip)    |
 | [miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RJNCNXM/miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip)    |
 | [miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RJNCNXM/miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip)    |
 | [miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJNCNXM/miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip)    |
