@@ -1,5 +1,6 @@
 | Redmi K30 4G  内测版    |
 | ---- |
+| [miui_PHOENIXPRE_22.3.14_2424d6e45e_12.0.zip](https://hugeota.d.miui.com/22.3.14/miui_PHOENIXPRE_22.3.14_2424d6e45e_12.0.zip)    |
 | [miui_PHOENIXPRE_22.3.12_cfaf5a99ec_12.0.zip](https://hugeota.d.miui.com/22.3.12/miui_PHOENIXPRE_22.3.12_cfaf5a99ec_12.0.zip)    |
 | [miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip](https://hugeota.d.miui.com/22.3.3/miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip)    |
 | [miui_PHOENIXPRE_22.3.2_f093b87b23_12.0.zip](https://hugeota.d.miui.com/22.3.2/miui_PHOENIXPRE_22.3.2_f093b87b23_12.0.zip)    |
